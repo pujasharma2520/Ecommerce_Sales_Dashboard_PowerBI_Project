@@ -1,4 +1,4 @@
-# 🛒 Ecommerce Sales Dashboard | Power BI Project
+# 🛒 E-commerce Sales Dashboard | Power BI Project
 
 <p align="center">
   <img src="dashboard/Ecommerce_Sales_Dashboard.png" alt="Ecommerce Sales Dashboard" width="1000"/>
