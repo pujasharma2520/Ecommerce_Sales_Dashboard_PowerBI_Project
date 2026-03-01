@@ -1,5 +1,9 @@
 # 🛒 Ecommerce Sales Dashboard | Power BI Project
 
+<p align="center">
+  <img src="dashboard/Ecommerce_Sales_Dashboard.png" alt="Ecommerce Sales Dashboard" width="1000"/>
+</p>
+
 ## 📌 Project Overview
 
 This project focuses on building an **interactive Ecommerce Sales Dashboard using Power BI** to analyze online sales performance across states, customers, categories, and time periods.
